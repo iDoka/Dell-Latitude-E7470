@@ -9,5 +9,6 @@ Linux and Dell Latitude E7470 story and fix issues
   * SmartCard reader
   * FingerPrint reader
 * WWAN
+* SD-card reader
 
 ## Linux tips and tricks
